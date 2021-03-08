@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Yarnonia Shenanigans",
-  "version": "1.1",
+  "version": "1.2",
   "author": "",
   "files": [
     {
@@ -95,6 +95,11 @@
       "required": true
     },
     {
+      "projectID": 422301,
+      "fileID": 3225717,
+      "required": true
+    },
+    {
       "projectID": 69163,
       "fileID": 3155832,
       "required": true
@@ -112,6 +117,11 @@
     {
       "projectID": 245755,
       "fileID": 3222129,
+      "required": true
+    },
+    {
+      "projectID": 312040,
+      "fileID": 3067125,
       "required": true
     },
     {
@@ -200,8 +210,18 @@
       "required": true
     },
     {
+      "projectID": 277616,
+      "fileID": 3174886,
+      "required": true
+    },
+    {
       "projectID": 309927,
       "fileID": 3231111,
+      "required": true
+    },
+    {
+      "projectID": 282639,
+      "fileID": 3084126,
       "required": true
     },
     {
@@ -290,13 +310,13 @@
       "required": true
     },
     {
-      "projectID": 401955,
-      "fileID": 3225308,
+      "projectID": 404183,
+      "fileID": 3189035,
       "required": true
     },
     {
-      "projectID": 404183,
-      "fileID": 3189035,
+      "projectID": 401955,
+      "fileID": 3225308,
       "required": true
     },
     {
