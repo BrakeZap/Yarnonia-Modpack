@@ -2,5 +2,5 @@
 ┃┏╸bo:generate_documentation
 ┃┣> Variable Type: java.lang.Boolean
 ┃┣> Default: true
-┃┗> valkyrielib.documentation.enabled
+┃┗╸
 ┗╸
