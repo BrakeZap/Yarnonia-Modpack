@@ -15,7 +15,7 @@
 	#Range: 0 ~ 16
 	Light = 7
 	#Should punish time skipping with e.g. bed, commands? If false, difficulty will increase by 0.1 regardless of skipped time.
-	"Punish Time Skip" = true
+	"Punish Time Skip" = false
 	#Disable/Enable friendly fire for owned pets.
 	FriendlyFire = false
 	#Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor should be included here.
