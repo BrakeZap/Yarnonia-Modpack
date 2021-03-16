@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Yarnonia Shenanigans 1.3",
-  "version": "1.4",
+  "name": "Yarnonia Shenanigans 1.5",
+  "version": "1.5",
   "author": "",
   "files": [
     {
@@ -62,11 +62,6 @@
     {
       "projectID": 368718,
       "fileID": 3227419,
-      "required": true
-    },
-    {
-      "projectID": 384508,
-      "fileID": 3206649,
       "required": true
     },
     {
@@ -195,13 +190,8 @@
       "required": true
     },
     {
-      "projectID": 345795,
-      "fileID": 3193341,
-      "required": true
-    },
-    {
       "projectID": 405627,
-      "fileID": 3176607,
+      "fileID": 3172829,
       "required": true
     },
     {
@@ -210,13 +200,18 @@
       "required": true
     },
     {
-      "projectID": 411446,
-      "fileID": 3072700,
+      "projectID": 345795,
+      "fileID": 3193341,
       "required": true
     },
     {
       "projectID": 226410,
       "fileID": 3223221,
+      "required": true
+    },
+    {
+      "projectID": 411446,
+      "fileID": 3072700,
       "required": true
     },
     {
@@ -260,13 +255,13 @@
       "required": true
     },
     {
-      "projectID": 312040,
-      "fileID": 3067125,
+      "projectID": 298744,
+      "fileID": 3226770,
       "required": true
     },
     {
-      "projectID": 298744,
-      "fileID": 3226770,
+      "projectID": 312040,
+      "fileID": 3067125,
       "required": true
     },
     {
@@ -285,18 +280,13 @@
       "required": true
     },
     {
-      "projectID": 239197,
-      "fileID": 3231132,
-      "required": true
-    },
-    {
       "projectID": 250277,
       "fileID": 3211479,
       "required": true
     },
     {
-      "projectID": 268560,
-      "fileID": 3206392,
+      "projectID": 239197,
+      "fileID": 3231132,
       "required": true
     },
     {
@@ -305,18 +295,23 @@
       "required": true
     },
     {
+      "projectID": 268560,
+      "fileID": 3206392,
+      "required": true
+    },
+    {
       "projectID": 340583,
       "fileID": 3170047,
       "required": true
     },
     {
-      "projectID": 422301,
-      "fileID": 3225717,
+      "projectID": 268566,
+      "fileID": 3206395,
       "required": true
     },
     {
-      "projectID": 268566,
-      "fileID": 3206395,
+      "projectID": 422301,
+      "fileID": 3225717,
       "required": true
     },
     {
@@ -420,13 +415,13 @@
       "required": true
     },
     {
-      "projectID": 382216,
-      "fileID": 3218058,
+      "projectID": 438447,
+      "fileID": 3183710,
       "required": true
     },
     {
-      "projectID": 438447,
-      "fileID": 3183710,
+      "projectID": 382216,
+      "fileID": 3218058,
       "required": true
     },
     {
@@ -445,13 +440,13 @@
       "required": true
     },
     {
-      "projectID": 428483,
-      "fileID": 3139159,
+      "projectID": 309927,
+      "fileID": 3231111,
       "required": true
     },
     {
-      "projectID": 309927,
-      "fileID": 3231111,
+      "projectID": 428483,
+      "fileID": 3139159,
       "required": true
     },
     {
@@ -492,6 +487,11 @@
     {
       "projectID": 60089,
       "fileID": 3202662,
+      "required": true
+    },
+    {
+      "projectID": 255105,
+      "fileID": 3232429,
       "required": true
     },
     {
