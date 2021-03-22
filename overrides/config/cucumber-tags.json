@@ -7,7 +7,7 @@
   "forge:ingots/copper": "mekanism:ingot_copper",
   "forge:ingots/lumium": "thermal:lumium_ingot",
   "forge:ingots/electrum": "thermal:electrum_ingot",
-  "forge:silicon": "appliedenergistics2:silicon",
+  "forge:silicon": "refinedstorage:silicon",
   "forge:ingots/silver": "iceandfire:silver_ingot",
   "forge:dusts/saltpeter": "bloodmagic:saltpeter",
   "forge:ingots/steel": "mekanism:ingot_steel",

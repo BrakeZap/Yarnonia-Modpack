@@ -223,7 +223,7 @@
 	#Mix of WEIGHTED_AVERAGE and DISTANCE_FROM_SPAWN. Difficulty increases with time but also with distance
 	#SERVER_WIDE:
 	#Difficulty tracked at the server level. Player difficulty is irrelevant.
-	areaMode = "WEIGHTED_AVERAGE"
+	areaMode = "DISTANCE_AND_TIME"
 	#Distance to look for difficulty sources (players) when calculating area difficulty.
 	searchRadius = 256
 	#Ignore the Y-axis in difficulty calculations

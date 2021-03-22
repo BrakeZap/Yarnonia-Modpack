@@ -31,7 +31,6 @@ Helper file showing all available BiomeDictionary biome tags.
   "SPARSE",
   "SPOOKY",
   "SWAMP",
-  "TWILIGHT",
   "VOID",
   "WASTELAND",
   "WATER",

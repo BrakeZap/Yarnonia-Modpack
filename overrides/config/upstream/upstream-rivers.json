@@ -1,5 +1,4 @@
 {
-  "appliedenergistics2:spatial_storage": "minecraft:river",
   "byg:allium_fields": "minecraft:river",
   "byg:alpine_foothills": "minecraft:river",
   "byg:alps": "minecraft:frozen_river",
@@ -152,6 +151,7 @@
   "byg:zelkova_clearing": "minecraft:river",
   "byg:zelkova_forest": "minecraft:river",
   "byg:zelkova_forest_hills": "minecraft:river",
+  "dimdungeons:biome_dungeon": "minecraft:river",
   "minecraft:badlands": "minecraft:river",
   "minecraft:badlands_plateau": "minecraft:river",
   "minecraft:bamboo_jungle": "minecraft:river",
